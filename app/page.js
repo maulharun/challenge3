@@ -8,7 +8,7 @@ export default function HeroPage() {
       {/* Foto Profil */}
       <div className="w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-gray-500 shadow-lg">
         <Image
-          src="/image/profile.JPG"
+          src="../image/profile.JPG"
           alt="Profile Picture"
           width={200}
           height={200}
