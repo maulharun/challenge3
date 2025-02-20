@@ -28,7 +28,7 @@ export default function HeroPage() {
    {/* Tombol CTA */}
   <div className="mt-6">
    <Link
-      href="/contact/page.js"
+      href="/contact"
       className="px-6 py-2 text-lg font-semibold bg-blue-500 hover:bg-blue-600 rounded-full transition duration-300"
     >
     Hubungi Saya
